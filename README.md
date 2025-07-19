@@ -59,7 +59,7 @@ Make sure your **macOS (Apple M2)** device has the following:
 
 ---
 
-## 🚀 Setup & Usage
+##  Setup & Usage
 
 Detailed installation and usage instructions can be found in:
 
