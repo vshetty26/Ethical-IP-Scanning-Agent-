@@ -1,0 +1,24 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Editor/IDE specific files
+.vscode/ # VS Code settings
+.idea/   # PyCharm settings
+
+# Sensitive information
+.env
+
+# Nmap output files (if you save them later)
+*.xml
+*.gnmap
+*.nmap
+scans/ # If you decide to save scan results in a 'scans' folder
+
+# Operating System files
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
